@@ -1,0 +1,38 @@
+/* styles.css */
+
+.row {
+  background-color: #9ade7b;
+  border-radius: 7px;
+  border: 3px solid blanchedalmond;
+}
+
+.custom-link {
+  color: antiquewhite;
+  text-decoration: none;
+}
+.info-box {
+  background-color: #9ade7b;
+  color: antiquewhite;
+  text-align: center;
+  width: 1100px;
+  height: 200px;
+  border: 3px solid antiquewhite;
+  border-radius: 7px;
+  font-size: 20px;
+  margin: auto;
+}
+li {
+  list-style-type: none;
+}
+.info-box {
+  display: flex;
+}
+
+.info-section {
+  margin-right: 20px;
+}
+h2 {
+  text-align: center;
+  color: #07472c !important;
+  padding: 50px;
+}
